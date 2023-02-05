@@ -44,7 +44,7 @@
         app:layout_constraintVertical_bias="0.865" />
 
     <CheckBox
-        android:id="@+id/CheckZgodny"
+        android:id="@+id/takie_same"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hasła są takie same"
@@ -56,7 +56,7 @@
         app:layout_constraintVertical_bias="0.712" />
 
     <CheckBox
-        android:id="@+id/CheckDuzaLitera"
+        android:id="@+id/duzy"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Duża litera"
@@ -68,7 +68,7 @@
         app:layout_constraintVertical_bias="0.371" />
 
     <CheckBox
-        android:id="@+id/CheckMalaLitera"
+        android:id="@+id/maly"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Mała litera"
@@ -80,7 +80,7 @@
         app:layout_constraintVertical_bias="0.453" />
 
     <CheckBox
-        android:id="@+id/CheckCyfra"
+        android:id="@+id/liczba"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Cyfra"
@@ -92,7 +92,7 @@
         app:layout_constraintVertical_bias="0.626" />
 
     <CheckBox
-        android:id="@+id/CheckZnakSpecjalny"
+        android:id="@+id/specjalista"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Znak specjalny"
